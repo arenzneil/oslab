@@ -1,0 +1,15 @@
+/workspaces/oslab/ARENZOBSIOMA/bin/Debug/net8.0/ARENZOBSIOMA
+/workspaces/oslab/ARENZOBSIOMA/bin/Debug/net8.0/ARENZOBSIOMA.deps.json
+/workspaces/oslab/ARENZOBSIOMA/bin/Debug/net8.0/ARENZOBSIOMA.runtimeconfig.json
+/workspaces/oslab/ARENZOBSIOMA/bin/Debug/net8.0/ARENZOBSIOMA.dll
+/workspaces/oslab/ARENZOBSIOMA/bin/Debug/net8.0/ARENZOBSIOMA.pdb
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/ARENZOBSIOMA.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/ARENZOBSIOMA.AssemblyInfoInputs.cache
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/ARENZOBSIOMA.AssemblyInfo.cs
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/ARENZOBSIOMA.csproj.CoreCompileInputs.cache
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/ARENZOBSIOMA.sourcelink.json
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/ARENZOBSIOMA.dll
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/refint/ARENZOBSIOMA.dll
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/ARENZOBSIOMA.pdb
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/ARENZOBSIOMA.genruntimeconfig.cache
+/workspaces/oslab/ARENZOBSIOMA/obj/Debug/net8.0/ref/ARENZOBSIOMA.dll

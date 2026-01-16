@@ -1,0 +1,15 @@
+/workspaces/oslab/bin/Debug/net8.0/oslab
+/workspaces/oslab/bin/Debug/net8.0/oslab.deps.json
+/workspaces/oslab/bin/Debug/net8.0/oslab.runtimeconfig.json
+/workspaces/oslab/bin/Debug/net8.0/oslab.dll
+/workspaces/oslab/bin/Debug/net8.0/oslab.pdb
+/workspaces/oslab/obj/Debug/net8.0/oslab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oslab/obj/Debug/net8.0/oslab.AssemblyInfoInputs.cache
+/workspaces/oslab/obj/Debug/net8.0/oslab.AssemblyInfo.cs
+/workspaces/oslab/obj/Debug/net8.0/oslab.csproj.CoreCompileInputs.cache
+/workspaces/oslab/obj/Debug/net8.0/oslab.sourcelink.json
+/workspaces/oslab/obj/Debug/net8.0/oslab.dll
+/workspaces/oslab/obj/Debug/net8.0/refint/oslab.dll
+/workspaces/oslab/obj/Debug/net8.0/oslab.pdb
+/workspaces/oslab/obj/Debug/net8.0/oslab.genruntimeconfig.cache
+/workspaces/oslab/obj/Debug/net8.0/ref/oslab.dll
